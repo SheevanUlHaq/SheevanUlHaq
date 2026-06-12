@@ -1,55 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Sheevan Ul Haq</h1>
-<h3 align="center">MCA Student @ NIT Bhopal | Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheevanulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="sheevanulhaq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheevanulhaq" alt="sheevanulhaq" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/SheevanUlHaq](https://github.com/SheevanUlHaq)
-
-- 💬 Ask me about **Java, DSA, DBMS, Operating Systems, Computer Networks, React, Node.js**
-
-- 📫 How to reach me **sheevan12345@gmail.com**
-
-- 📄 Know about my experiences [https://linkedin.com/in/sheevanulhaq](https://linkedin.com/in/sheevanulhaq)
-
-- ⚡ Fun fact **AIR 1 in AI & ML Entrance, but still debugging missing semicolons 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sheevanulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheevanulhaq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sheevan_ul_haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheevan_ul_haq" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/283203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="283203" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheevanulhaq&show_icons=true&locale=en&layout=compact" alt="sheevanulhaq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheevanulhaq&show_icons=true&locale=en" alt="sheevanulhaq" /></p> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Hi there, I'm Sheevan Ul Haq 👋
 
 <div align="center">
@@ -64,6 +12,8 @@
 ![](https://img.shields.io/badge/CGPA-8.51%2F10-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/B.Sc%20Computer%20Science-University%20of%20Delhi-9333EA?style=for-the-badge)
 ![](https://img.shields.io/badge/AIR%201-M.Sc%20AI%20%26%20ML-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/NIMCET-AIR%20415-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/MAH%20MCA%20CET-99.73%25-9333EA?style=for-the-badge)
 
 <br/>
 
@@ -104,7 +54,6 @@ Software Engineer and MCA candidate at **NIT Bhopal** with strong foundations in
 My engineering approach combines:
 
 - Product-first thinking
-- Scalable system design
 - Clean architecture principles
 - Performance optimization
 - Secure software development
@@ -148,21 +97,6 @@ I enjoy developing full-stack applications, designing REST APIs, working with cl
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" />
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning | Advanced | Model Development, Training & Evaluation |
-| Deep Learning | Intermediate | Neural Networks & Classification Models |
-| Computer Vision | Intermediate | Emotion Recognition Systems |
-| Data Processing | Advanced | Data Cleaning & Feature Engineering |
-| Recommendation Systems | Advanced | Emotion-Based Recommendation Engines |
-| AI Product Development | Advanced | End-to-End AI Solution Development |
-| Python for AI | Advanced | NumPy, Pandas, Scikit-Learn |
-| Applied AI Research | Intermediate | Practical Problem Solving |
 
 ---
 
@@ -261,7 +195,6 @@ Designing and developing full-stack software solutions while continuously enhanc
 
 - Architecting full-stack web applications.
 - Building RESTful backend services.
-- Developing AI-powered applications.
 - Implementing secure authentication systems.
 - Writing maintainable and scalable code.
 - Solving DSA and system design challenges.
@@ -281,7 +214,7 @@ Designing and developing full-stack software solutions while continuously enhanc
 | AIR 1 | M.Sc AI & ML Entrance Examination |
 | 99.73 Percentile | MAH MCA CET |
 | AIR 415 | NIMCET |
-| 250+ Problems Solved | DSA & Competitive Programming |
+| 300+ Problems Solved | DSA & Competitive Programming |
 | CGPA 8.51 | MCA – NIT Bhopal |
 | 93% | Class XII PCM |
 
@@ -291,21 +224,17 @@ Designing and developing full-stack software solutions while continuously enhanc
 
 # Certifications
 
-## AWS
+<div align="center">
 
-![](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws)
+![](https://img.shields.io/badge/Apna%20College-Alpha%20DSA%20with%20Java-7C3AED?style=for-the-badge)
 
-## Oracle
+![](https://img.shields.io/badge/HackerRank-Java%20(Basic)-00EA64?style=for-the-badge&logo=hackerrank)
 
-![](https://img.shields.io/badge/Oracle-Java-DC382D?style=for-the-badge&logo=oracle)
+![](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank)
 
-## NPTEL
+![](https://img.shields.io/badge/Apna%20College-Full%20Stack%20Web%20Development-4F46E5?style=for-the-badge)
 
-![](https://img.shields.io/badge/NPTEL-Programming%20and%20Computer%20Science-7C3AED?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+</div>
 
 ---
 
@@ -313,20 +242,12 @@ Designing and developing full-stack software solutions while continuously enhanc
 
 <div align="center">
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/sheevan_ul_haq/">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
+<a href="https://www.geeksforgeeks.org/profile/sheevanulhaq">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Programming%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -381,21 +302,19 @@ Designing and developing full-stack software solutions while continuously enhanc
 
 ```yaml
 Learning:
-  - Advanced Backend Engineering
-  - System Design
   - Cloud Architecture
   - AI Engineering
+  - System Design
 
 Building:
   - Scalable MERN Applications
-  - AI Powered Products
+  - Full Stack Products
   - Developer Portfolio
 
 Exploring:
-  - Microservices
   - DevOps
   - Distributed Systems
-  - Generative AI
+  - Docker
 
 Open_To:
   - Software Engineering Internships
