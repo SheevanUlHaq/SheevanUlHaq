@@ -341,7 +341,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-SheevanUlHaq-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.com">
+<a href="https://sheevanulhaq.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
