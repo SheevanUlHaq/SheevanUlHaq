@@ -18,10 +18,11 @@
 <br/>
 
 ![](https://img.shields.io/badge/Location-India-312E81?style=for-the-badge)
+![](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel)
 
 <br/><br/>
 
-<a href="https://portfolio.com">
+<a href="https://sheevanulhaq.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -341,7 +342,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-SheevanUlHaq-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://sheevanulhaq.vercel.app/">
+<a href="https://sheevanulhaq.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
