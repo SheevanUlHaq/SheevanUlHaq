@@ -114,6 +114,10 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 <img src="https://skillicons.dev/icons?i=java,js,python" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28"/>
+
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
@@ -124,7 +128,11 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 
 ### DevOps & Cloud
 
