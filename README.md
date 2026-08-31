@@ -114,8 +114,12 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=white" height="48"/>
+</p>
 
 ### Frontend
 
