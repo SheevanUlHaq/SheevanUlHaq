@@ -128,11 +128,7 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=opencv,tensorflow,numpy,pandas,scikitlearn" />
 
 ### DevOps & Cloud
 
