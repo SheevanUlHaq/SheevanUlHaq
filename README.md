@@ -112,7 +112,11 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+
+<br/>
+
+<code>SQL</code>
 
 <br/><br/>
 
@@ -128,6 +132,20 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 <br/><br/>
 
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+
+<br/>
+
+<code>NumPy</code>
+&nbsp;
+<code>Pandas</code>
+&nbsp;
+<code>Scikit-learn</code>
+
+<br/><br/>
+
 ### DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws,linux" />
@@ -135,7 +153,6 @@ I enjoy turning real-world problems into practical software solutions and contin
 </div>
 
 ---
-
 <!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
