@@ -112,22 +112,21 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ### Languages
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,js" />
 
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js" />
-  <img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=white" height="48"/>
-</p>
+<br/><br/>
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
+<br/><br/>
+
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<br/><br/>
 
 ### DevOps & Cloud
 
