@@ -114,37 +114,17 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 <img src="https://skillicons.dev/icons?i=java,js,python" />
 
-<br/>
-
-<code>SQL</code>
-
-<br/><br/>
-
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
-<br/><br/>
 
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-<br/><br/>
-
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-
-<br/>
-
-<code>NumPy</code>
-&nbsp;
-<code>Pandas</code>
-&nbsp;
-<code>Scikit-learn</code>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,numpy,pandas,sklearn" />
 
 ### DevOps & Cloud
 
