@@ -1,179 +1,262 @@
-# Sheevan Ul Haq
+<!-- ======================= HERO ======================= -->
 
-<p align="center">
-  <strong>Software Engineer · Full Stack Developer · Backend & DevOps Enthusiast</strong>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E293B,100:334155&text=Sheevan%20Ul%20Haq&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+<h3>Software Engineer • Full Stack Developer • Backend & DevOps</h3>
+
+<p>
+  <em>
+    Building scalable applications, reliable backend systems,<br/>
+    and production-ready software.
+  </em>
 </p>
 
-<p align="center">
-  <a href="https://sheevanulhaq.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/sheevanulhaq">LinkedIn</a> ·
-  <a href="https://github.com/SheevanUlHaq">GitHub</a> ·
-  <a href="mailto:sheevan12345@gmail.com">Email</a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SheevanUlHaq&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/SheevanUlHaq?style=flat-square" alt="GitHub followers"/>
-</p>
+<a href="https://sheevanulhaq.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sheevanulhaq">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sheevan12345@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/SheevanUlHaq">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SheevanUlHaq&style=for-the-badge&color=334155&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-## About
+<!-- ======================= ABOUT ======================= -->
 
-Software Engineer and MCA candidate at **NIT Bhopal** with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**.
+## 👨‍💻 About Me
 
-I build full-stack applications with a focus on **clean backend architecture, REST APIs, authentication, databases, containerization, and automated deployment**. I am particularly interested in backend engineering, cloud technologies, DevOps, and building reliable products for real-world use cases.
+I'm a **Software Engineer and MCA candidate at NIT Bhopal** with a strong foundation in Computer Science and hands-on experience building full-stack applications.
 
-**Currently focused on:** Full Stack Development · Backend Engineering · Docker & CI/CD · AWS · System Design
+My primary focus is on:
+
+- 🧩 **Backend Engineering & REST API Design**
+- ⚡ **Full Stack Web Development**
+- 🗄️ **Database Design & Management**
+- 🐳 **Docker & Containerization**
+- 🔄 **CI/CD & DevOps**
+- ☁️ **AWS Cloud Deployment**
+- 🧠 **Data Structures & Algorithms**
+- 🏗️ **Scalable & Maintainable Architecture**
+
+I enjoy turning real-world problems into practical software solutions and continuously improving the way I design, build, and deploy applications.
 
 ---
 
-## Tech Stack
+<!-- ======================= QUICK STATS ======================= -->
+
+## 📊 Developer Snapshot
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+<h2>8.51</h2>
+<b>MCA CGPA</b>
+<br/>
+<sub>NIT Bhopal</sub>
+</td>
+
+<td align="center" width="180">
+<h2>300+</h2>
+<b>DSA Problems</b>
+<br/>
+<sub>Solved</sub>
+</td>
+
+<td align="center" width="180">
+<h2>99.73</h2>
+<b>Percentile</b>
+<br/>
+<sub>MAH MCA CET</sub>
+</td>
+
+<td align="center" width="180">
+<h2>AIR 1</h2>
+<b>M.Sc. AI & ML</b>
+<br/>
+<sub>Entrance Examination</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-`Java` `JavaScript` `SQL`
+<img src="https://skillicons.dev/icons?i=java,js,sql,cpp" />
 
 ### Frontend
 
-`HTML5` `CSS3` `React.js` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-### Backend
+### Backend & Databases
 
-`Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MongoDB` `MySQL`
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### DevOps & Cloud
 
-`Git` `GitHub` `Docker` `Jenkins` `AWS EC2`
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws,linux" />
 
-### Core Computer Science
-
-`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
+</div>
 
 ---
 
-## Featured Projects
+<!-- ======================= PROJECTS ======================= -->
 
-### FixMate — Full Stack Workplace Issue Tracking Platform
+## 🚀 Featured Projects
 
-A full-stack internal service operations platform for reporting, assigning, tracking, and resolving workplace issues through accountable workflows.
+### 🔧 FixMate
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Docker` `AWS EC2` `Jenkins`
+**Full Stack Workplace Issue Tracking & Service Operations Platform**
 
-- Built workflows for reporting, assigning, tracking, and resolving service issues.
-- Implemented secure authentication and RESTful APIs for users, issues, and resolution workflows.
-- Containerized the application with Docker and deployed it on AWS EC2.
-- Configured Jenkins CI/CD for automated application deployment.
+> Transforming workplace maintenance issues into clear, trackable, and accountable workflows.
 
-**[Live Demo](https://fixmate-frontend-ruddy.vercel.app/) · [GitHub](https://github.com/SheevanUlHaq/Fixmate)**
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Docker` `Jenkins` `AWS EC2`
+
+**Highlights**
+
+- Built a complete issue reporting and service-request workflow.
+- Implemented secure authentication and RESTful APIs.
+- Added role-based workflows for managing users, issues, and resolutions.
+- Containerized the application using **Docker**.
+- Deployed the application on **AWS EC2**.
+- Configured **Jenkins CI/CD** for automated deployment.
+
+<p>
+<a href="https://fixmate-frontend-ruddy.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/SheevanUlHaq/Fixmate">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### MediConnect — Full Stack Healthcare Appointment Platform
+### 🏥 MediConnect
 
-A healthcare appointment booking platform connecting patients with verified doctors across multiple specialties.
+**Full Stack Healthcare Appointment Platform**
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Razorpay`
+> Connecting patients with doctors through a secure and streamlined appointment experience.
 
-- Built dedicated Patient, Doctor, and Admin dashboards.
-- Implemented JWT-based authentication and role-based authorization.
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Razorpay`
+
+**Highlights**
+
+- Built dedicated **Patient, Doctor, and Admin dashboards**.
+- Implemented JWT authentication and role-based authorization.
 - Developed RESTful APIs for appointment management.
-- Integrated Cloudinary for image uploads and Razorpay for secure online payments.
+- Integrated **Cloudinary** for image management.
+- Integrated **Razorpay** for secure online payments.
+- Designed a responsive and user-friendly healthcare platform.
 
-**[Live Demo](https://mediconnect-frontend-two.vercel.app/) · [GitHub](https://github.com/SheevanUlHaq/MediConnect)**
-
----
-
-### CampusBid — Full Stack Student Marketplace & Auction Platform
-
-A campus marketplace for students to buy, sell, and bid on books, cycles, laptops, hostel essentials, and other items.
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary`
-
-- Built marketplace functionality with JWT authentication and admin moderation.
-- Designed an auction system with live bidding, bid history, and automatic auction closing.
-- Developed RESTful APIs for listings, bids, messaging, and reports.
-- Deployed the application using Vercel/Render with MongoDB Atlas.
-
-**[Live Demo](https://campusbid-client.vercel.app/) · [GitHub](https://github.com/SheevanUlHaq/CampusBid)**
-
----
-
-## Education
-
-| Degree | Institution | Details |
-|---|---|---|
-| **MCA** | NIT Bhopal | 2024 – Present · **8.51 / 10** |
-| **B.Sc. (Hons.) Computer Science** | University of Delhi | 2021 – 2024 · **8.34 / 10** |
-| **Class XII** | St. Francis Academy, Auraiya | 2019 – 2020 · **93%** |
-
----
-
-## Achievements
-
-- 🏆 **AIR 1** — M.Sc. AI & ML Entrance Examination, JMI
-- 📈 **99.73 Percentile** — MAH MCA CET
-- 🎯 **AIR 415** — NIMCET
-- 💻 **300+ DSA Problems Solved**
-
----
-
-## Certifications
-
-- **DSA with Java** — Apna College
-- **Java (Basic) Skill Certification** — HackerRank
-
----
-
-## Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sheevan_ul_haq/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<p>
+<a href="https://mediconnect-frontend-two.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="https://www.geeksforgeeks.org/profile/sheevanulhaq">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<a href="https://github.com/SheevanUlHaq/MediConnect">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## GitHub Analytics
+### 🎓 CampusBid
 
-<p align="center">
+**Full Stack Student Marketplace & Auction Platform**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SheevanUlHaq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+> A dedicated marketplace built for students to buy, sell, and auction campus essentials.
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SheevanUlHaq&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+**Tech Stack**
 
-</p>
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary`
 
-<p align="center">
+**Highlights**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheevanUlHaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+- Built a student-focused marketplace for buying and selling items.
+- Implemented JWT authentication and admin moderation.
+- Designed an auction engine with **live bidding and bid history**.
+- Implemented automatic auction closing and winner selection.
+- Developed REST APIs for listings, bids, messaging, and reports.
+- Deployed using **Vercel / Render with MongoDB Atlas**.
 
+<p>
+<a href="https://campusbid-client.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/SheevanUlHaq/CampusBid">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## Let's Connect
+<!-- ======================= DEVOPS ======================= -->
 
-<p align="center">
+## ⚙️ Deployment & DevOps
 
-<a href="https://sheevanulhaq.vercel.app/">Portfolio</a> ·
-<a href="https://linkedin.com/in/sheevanulhaq">LinkedIn</a> ·
-<a href="https://github.com/SheevanUlHaq">GitHub</a> ·
-<a href="mailto:sheevan12345@gmail.com">sheevan12345@gmail.com</a>
+One of my recent projects, **FixMate**, follows a production-style deployment workflow:
 
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Building scalable software, solving meaningful problems, and continuously improving.</i>
-</p>
+```text
+                 ┌──────────────┐
+                 │    GitHub    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    Jenkins   │
+                 │    CI / CD   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    Docker    │
+                 │    Build     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │  Docker Hub  │
+                 │    Image     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   AWS EC2    │
+                 │   Deploy     │
+                 └──────────────┘
